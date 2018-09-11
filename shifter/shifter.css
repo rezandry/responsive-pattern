@@ -1,0 +1,25 @@
+@media screen and (min-width: 500px) {
+    .dark_blue {
+        width: 50%;
+    }
+
+    #container2 {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 600px) {
+    .dark_blue {
+        width: 25%;
+        order: 1;
+    }
+
+    .red {
+        width: 25%;
+        order: -1;
+    }
+
+    #container2 {
+        width: 50%;
+    }
+}

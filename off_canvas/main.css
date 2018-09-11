@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  min-height: 150px;
+}
+
+.dark_blue {
+  background-color: darkblue;
+}
+
+.light_blue {
+  background-color: lightblue;
+}
